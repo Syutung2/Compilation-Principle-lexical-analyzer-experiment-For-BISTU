@@ -1,0 +1,12 @@
+int a = 0;
+int b;
+a+=1;
+b=10;
+def main(){
+if a>=b{
+        b = a;
+    }
+    printf("Hello! China Special Open Sources!")
+    }
+
+

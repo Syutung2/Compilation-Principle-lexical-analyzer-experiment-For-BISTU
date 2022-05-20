@@ -1,0 +1,7 @@
+void main(){
+    printf("Hello World! \n");
+    int dfdf=3;
+    int j=4;
+    if (dfdf>j) printf("%d is greater than %d\n",dfdf,j);
+    else printf("%d is less than %d \n",dfdf,j);
+}
